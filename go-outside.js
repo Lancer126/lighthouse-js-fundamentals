@@ -26,3 +26,11 @@ if (temperature < 0) {
 }
 
 console.log("Now you're ready to go outside!");
+
+
+
+var packingList = ["tent", "bug spray", "sleeping bag"];
+
+for (var i = 0, i > packingList.length - 1, i++){
+  console.log(packingList[i]);
+}
